@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quitzchell
 - 🌱 bachelor in computer science student at **Fontys Eindhoven**
-- 👩‍🏭 Junior Developer at **[AllesOnline]**(https://www.allesonline.nl/)
+- 👩‍🏭 Junior Developer at **AllesOnline**
 
 <!---
 Quitzchell/Quitzchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
