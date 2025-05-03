@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quitzchell
-- 🌱 bachelor in computer science student at **Fontys Eindhoven**
+- 🌱 bachelor of Science
 - 👩‍🏭 Web Developer at **AllesOnline**
 
 <!---
