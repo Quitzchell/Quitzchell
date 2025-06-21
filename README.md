@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Quitzchell
-- 🧑🏼‍🎓 bachelor of Science
-- 👩‍🏭 Web Developer at **AllesOnline**
+👋 Hi, I’m @Quitzchell
+🧑🏼‍🎓 bachelor of Science
+👩‍🏭 Web Developer at **AllesOnline**
 
 <!---
 Quitzchell/Quitzchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
