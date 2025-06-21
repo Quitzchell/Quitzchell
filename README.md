@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quitzchell
-- 🌱 bachelor of Science
+- 🧑🏼‍🎓 bachelor of Science
 - 👩‍🏭 Web Developer at **AllesOnline**
 
 <!---
