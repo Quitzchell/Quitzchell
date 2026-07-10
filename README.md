@@ -1,7 +1,3 @@
 👋 Hi, I'm @Quitzchell
 
-Backend engineer at AllesOnline (PHP/Laravel, Python/FastAPI, TypeScript). BSc ICT. Built Pera Pera, a realtime app for practicing Japanese with friends (Next.js, NestJS). One passion tends to fuel the next.
-<!---
-Quitzchell/Quitzchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Polyglot backend engineer building production systems in PHP/Laravel, Python/FastAPI, and TypeScript/NestJS. Currently shipping at AllesOnline. Side projects: Pera Pera, a realtime Japanese/Dutch practice app (NestJS, WebSockets, React); Library Card, a band website (PHP/Laravel, Next.js). Rotterdam-based, BSc ICT.
